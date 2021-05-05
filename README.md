@@ -1,2 +1,2 @@
 # photo_bed
-我的图床
+Aurora主题的图床
